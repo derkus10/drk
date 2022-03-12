@@ -8,7 +8,7 @@ account_1 = "0xE53eCbbD6Ce77D222E37Cf65C905FbF14245Ab7E"
 account_2 = "0x3Cb16b4803754E5fe6c5eFA06b3a741Ea61AC4BB"
 
 # Always delete private key
-private_key = "e4bc878c2b6aa03e7c4be04a4ec7d6ae4837e105c6fffb0315c842b109f3943d"
+private_key = "0xe4bc878c2b6aa03e7c4be04a4ec7d6ae4837e105c6fffb0315c842b109f3943d"
 
 web3 = Web3(Web3.HTTPProvider(infura))
 
