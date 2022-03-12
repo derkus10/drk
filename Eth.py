@@ -3,7 +3,7 @@ import requests
 from web3 import Web3
 
 
-infura = "https://mainnet.infura.io/v3/c8b054dcd2b7460ea734ec4fe9984d19"
+infura = "https://ropsten.infura.io/v3/c8b054dcd2b7460ea734ec4fe9984d19"
 account_1 = "0xE53eCbbD6Ce77D222E37Cf65C905FbF14245Ab7E"
 account_2 = "0x3Cb16b4803754E5fe6c5eFA06b3a741Ea61AC4BB"
 
